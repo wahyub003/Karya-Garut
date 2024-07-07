@@ -29,19 +29,19 @@ Tidak hanya sebagai platform e-commerce, Aplikasi Karya Garut juga berperan seba
 ## Project Thumbnail 
 
 <p float="left">
-    <img src="./docs/img/1.png" alt="Login" width="250">
+    <img src="./docs/img/1.png" alt="Login" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/2.png" alt="Register" width="250">
+    <img src="./docs/img/2.png" alt="Register" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/3_page.png" alt="Home" width="250">
+    <img src="./docs/img/3.png" alt="Home" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/4.png" alt="detail" width="250">
+    <img src="./docs/img/4.png" alt="detail" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/5_page.png" alt="Product" width="250">
+    <img src="./docs/img/5.png" alt="Product" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/6.png" alt="category" width="250">
+    <img src="./docs/img/6.png" alt="category" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/7_page.png" alt="Search" width="250">
+    <img src="./docs/img/7.png" alt="Search" width="150">
     &nbsp;&nbsp;
-    <img src="./docs/img/8.png" alt="profile" width="250">
+    <img src="./docs/img/8.png" alt="profile" width="150">
 </p>
